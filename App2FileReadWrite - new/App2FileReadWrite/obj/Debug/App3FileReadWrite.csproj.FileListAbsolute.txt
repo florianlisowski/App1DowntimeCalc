@@ -1,0 +1,21 @@
+C:\Users\lisow\Documents\Visual Studio 2022\Projects\App2FileReadWrite\App2FileReadWrite\bin\Debug\App2FileReadWrite.exe.config
+C:\Users\lisow\Documents\Visual Studio 2022\Projects\App2FileReadWrite\App2FileReadWrite\bin\Debug\App2FileReadWrite.exe
+C:\Users\lisow\Documents\Visual Studio 2022\Projects\App2FileReadWrite\App2FileReadWrite\bin\Debug\App2FileReadWrite.pdb
+C:\Users\lisow\Documents\Visual Studio 2022\Projects\App2FileReadWrite\App2FileReadWrite\obj\Debug\App3FileReadWrite.csproj.AssemblyReference.cache
+C:\Users\lisow\Documents\Visual Studio 2022\Projects\App2FileReadWrite\App2FileReadWrite\obj\Debug\App2FileReadWrite.Form1.resources
+C:\Users\lisow\Documents\Visual Studio 2022\Projects\App2FileReadWrite\App2FileReadWrite\obj\Debug\App2FileReadWrite.Properties.Resources.resources
+C:\Users\lisow\Documents\Visual Studio 2022\Projects\App2FileReadWrite\App2FileReadWrite\obj\Debug\App3FileReadWrite.csproj.GenerateResource.cache
+C:\Users\lisow\Documents\Visual Studio 2022\Projects\App2FileReadWrite\App2FileReadWrite\obj\Debug\App3FileReadWrite.csproj.CoreCompileInputs.cache
+C:\Users\lisow\Documents\Visual Studio 2022\Projects\App2FileReadWrite\App2FileReadWrite\obj\Debug\App2FileReadWrite.exe
+C:\Users\lisow\Documents\Visual Studio 2022\Projects\App2FileReadWrite\App2FileReadWrite\obj\Debug\App2FileReadWrite.pdb
+C:\Users\Profile1\Downloads\App3FileReadWrite-main\App2FileReadWrite\App2FileReadWrite\bin\Debug\App2FileReadWrite.exe.config
+C:\Users\Profile1\Downloads\App3FileReadWrite-main\App2FileReadWrite\App2FileReadWrite\bin\Debug\App2FileReadWrite.exe
+C:\Users\Profile1\Downloads\App3FileReadWrite-main\App2FileReadWrite\App2FileReadWrite\bin\Debug\App2FileReadWrite.pdb
+C:\Users\Profile1\Downloads\App3FileReadWrite-main\App2FileReadWrite\App2FileReadWrite\obj\Debug\App3FileReadWrite.csproj.AssemblyReference.cache
+C:\Users\Profile1\Downloads\App3FileReadWrite-main\App2FileReadWrite\App2FileReadWrite\obj\Debug\App3FileReadWrite.csproj.SuggestedBindingRedirects.cache
+C:\Users\Profile1\Downloads\App3FileReadWrite-main\App2FileReadWrite\App2FileReadWrite\obj\Debug\App2FileReadWrite.Form1.resources
+C:\Users\Profile1\Downloads\App3FileReadWrite-main\App2FileReadWrite\App2FileReadWrite\obj\Debug\App2FileReadWrite.Properties.Resources.resources
+C:\Users\Profile1\Downloads\App3FileReadWrite-main\App2FileReadWrite\App2FileReadWrite\obj\Debug\App3FileReadWrite.csproj.GenerateResource.cache
+C:\Users\Profile1\Downloads\App3FileReadWrite-main\App2FileReadWrite\App2FileReadWrite\obj\Debug\App3FileReadWrite.csproj.CoreCompileInputs.cache
+C:\Users\Profile1\Downloads\App3FileReadWrite-main\App2FileReadWrite\App2FileReadWrite\obj\Debug\App2FileReadWrite.exe
+C:\Users\Profile1\Downloads\App3FileReadWrite-main\App2FileReadWrite\App2FileReadWrite\obj\Debug\App2FileReadWrite.pdb
